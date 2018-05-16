@@ -11,11 +11,13 @@ package clase1;
  */
 public class Clase1 {
 
+    private int campo1;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Holiwiis");
     }
     
 }
